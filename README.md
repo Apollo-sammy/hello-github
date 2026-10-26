@@ -1,6 +1,6 @@
 # Hello, GitHub! 👋
 
-Hi! My name is **[Your Name]**. I am a student at **[Your University]**, currently in **[Your Year of Study]**.
+Hi! My name is Samson K Apollo. I am a student at the University Of Kabianga, currently in Third Year.
 
 ## About Me
 
@@ -20,8 +20,8 @@ My goal is to keep practising, work on useful projects, and become a better deve
 
 ## Connect With Me
 
-- GitHub: [Visit my GitHub profile](https://github.com/)
+- GitHub: [Visit my GitHub profile](https://github.com/Apollo-sammy)
 
 ---
 
-*This is my first GitHub introduction repository. I will update it as I learn more.*
+*This is my first GitHub introduction repository. I will update it as I learn more.Thank You*
